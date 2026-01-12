@@ -2,7 +2,7 @@
 <p align="center">
   <img src="4.png" width="450">
 </p> 
-
+ 
 
 This project is a **redefined and reimagined frontend UI** inspired by modern food delivery platforms.
 
