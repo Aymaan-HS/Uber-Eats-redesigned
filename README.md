@@ -3,7 +3,7 @@
   <img src="4.png" width="450">
 </p> 
  
-
+   
 This project is a **redefined and reimagined frontend UI** inspired by modern food delivery platforms.
 
 It focuses on **visual hierarchy, spacing, typography, and layout design**, while adding a fresh interpretation instead of directly copying any existing product.
